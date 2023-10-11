@@ -1,0 +1,22 @@
+body{
+    background:beige;
+    color: black;
+
+}
+
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48%;
+}
+
+.container{
+    background: orange;
+    color: green;
+}
