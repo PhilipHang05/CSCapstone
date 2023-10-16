@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right, #bc42f5 , #23cfcc);
+    color: black;
+
+}
+
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 48%;
+}
+
+.container{
+    background-image: linear-gradient(to right, #bc42f5 , #23cfcc);
+    color: white;
+}
+
+.container-fluid{
+    background-image: linear-gradient(to right, #bc42f5 , #23cfcc);
+    color: black;
+}
+
